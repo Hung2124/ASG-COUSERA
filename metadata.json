@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Photo Gallery",
+  "description": "An interactive photo gallery where hovering over an image displays it in a larger preview area with its description. This project demonstrates DOM manipulation concepts using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
